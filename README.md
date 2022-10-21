@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **b.antonijev@cybertaur.com**
 
+- ⚡ Fun fact **You have to call the function in order to use it.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/boris-antonijev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-antonijev" height="30" width="40" /></a>
