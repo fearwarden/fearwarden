@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Panotaur](https://github.com/CyberTaur/panotaur.com)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning [https://nestjs.com/]**NestJS**
 
 - 👨‍💻 All of my projects are available at [https://cybertaur.com/](https://cybertaur.com/)
 
