@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Car-Finder](https://github.com/fearwarden/car-finder-backend)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently working with **ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://cybertaur.com/](https://cybertaur.com/)
 
