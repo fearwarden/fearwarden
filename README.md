@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Your-Car](https://github.com/fearwarden/your-car-backend)
 
-- 🌱 I’m currently learning **Socket.IO**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://cybertaur.com/](https://cybertaur.com/)
 
