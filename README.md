@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://cybertaur.com/](https://cybertaur.com/)
 
-- 💬 Ask me about **typescript, spring**
-
 - 📫 How to reach me **borisantonijev@gmail.com**
 
-- ⚡ Fun fact **You have to call the function in order to use it.**
+- ⚡ In my free time **I explore physics and universe.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
