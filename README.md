@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@madboriss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@madboriss" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boris-antonijev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-antonijev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/boris-antonijev-684b131a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-antonijev" height="30" width="40" /></a>
 <a href="https://fb.com/boris.antonijev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boris.antonijev" height="30" width="40" /></a>
 <a href="https://instagram.com/borisantonijev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="borisantonijev" height="30" width="40" /></a>
 <a href="https://discord.gg/Fearwarden#0436" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fearwarden#0436" height="30" width="40" /></a>
