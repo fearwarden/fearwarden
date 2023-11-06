@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://cybertaur.com/](https://cybertaur.com/)
-
 - 📫 How to reach me **borisantonijev@gmail.com**
 
 - ⚡ In my free time **I explore physics and universe.**
