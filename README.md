@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fearwarden&label=Profile%20views&color=0e75b6&style=flat" alt="fearwarden" /> </p>
 
-- 🔭 I’m currently working on [Valorant Strategy Planner](https://github.com/fearwarden/Real-Time-Collaboration-Tool)
+- 🔭 I’m currently working on [Planify](https://github.com/fearwarden/Planify.git)
 
 - 🌱 I’m currently learning **Spring Boot**
 
